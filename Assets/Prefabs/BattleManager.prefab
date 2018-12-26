@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1406459033212756}
+  m_IsPrefabAsset: 1
+--- !u!1 &1406459033212756
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4861495587027300}
+  - component: {fileID: 114619171625662806}
+  m_Layer: 0
+  m_Name: BattleManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4861495587027300
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1406459033212756}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.5323294, y: 7.526556, z: -5.200984}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114619171625662806
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1406459033212756}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24a7f1443b37aa41a5ebbab3b6444c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_menu: {fileID: 0}
+  m_enemyGu: {fileID: 1365745903639474, guid: 1a2cc6b524f02d542bf0a2c7e50462e2, type: 2}
+  m_enemyChoki: {fileID: 1365745903639474, guid: 1db9dc64ef91f704783e3b76e2844ac3,
+    type: 2}
+  m_enemyPar: {fileID: 1365745903639474, guid: 8fb7196ef298add46a4a709915010eae, type: 2}
+  m_boss0: {fileID: 1261274411384502, guid: f9b2649f407c4214fa3dec140b7bc7da, type: 2}
+  m_boss1: {fileID: 1893645255756702, guid: a2c54513a60ba3148a9d6d6a0b3583e0, type: 2}
+  m_dragonKid: {fileID: 1038978060322944, guid: 05660b470ae7a8e4098564bf2176d6e4,
+    type: 2}
+  m_dragonMature: {fileID: 1896953642434780, guid: 7c54d6584c17ec743896f1715956a251,
+    type: 2}
+  m_enemyGeneratePos: {x: 0, y: 0, z: 12}
+  m_dragonGeneratePos: {x: 0, y: 0, z: 0}
+  Sequencer: {fileID: 0}

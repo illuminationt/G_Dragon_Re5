@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 026922f38b9608641998872ec77b8e3e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: All
+    100002: All 1
+    100004: back
+    100006: //RootNode
+    100008: Chest
+    100010: Con
+    100012: Geo
+    100014: L_airm_01
+    100016: L_airm_02
+    100018: left
+    100020: mobu2_boss:fudo:Group9999
+    100022: mobu2_boss:geo
+    100024: mobu2_boss:joint1
+    100026: mobu2_boss:joint10
+    100028: mobu2_boss:joint11
+    100030: mobu2_boss:joint12
+    100032: mobu2_boss:joint13
+    100034: mobu2_boss:joint14
+    100036: mobu2_boss:joint3
+    100038: mobu2_boss:joint4
+    100040: mobu2_boss:joint5
+    100042: mobu2_boss:joint6
+    100044: mobu2_boss:joint7
+    100046: mobu2_boss:joint8
+    100048: mobu2_boss:joint9
+    100050: mobu2_boss:mobu2:ZBrush_defualt_group1
+    100052: mobu2_boss:mobu2_boss
+    100054: neck
+    100056: R_airm_01
+    100058: R_airm_02
+    100060: Root
+    400000: All
+    400002: All 1
+    400004: back
+    400006: //RootNode
+    400008: Chest
+    400010: Con
+    400012: Geo
+    400014: L_airm_01
+    400016: L_airm_02
+    400018: left
+    400020: mobu2_boss:fudo:Group9999
+    400022: mobu2_boss:geo
+    400024: mobu2_boss:joint1
+    400026: mobu2_boss:joint10
+    400028: mobu2_boss:joint11
+    400030: mobu2_boss:joint12
+    400032: mobu2_boss:joint13
+    400034: mobu2_boss:joint14
+    400036: mobu2_boss:joint3
+    400038: mobu2_boss:joint4
+    400040: mobu2_boss:joint5
+    400042: mobu2_boss:joint6
+    400044: mobu2_boss:joint7
+    400046: mobu2_boss:joint8
+    400048: mobu2_boss:joint9
+    400050: mobu2_boss:mobu2:ZBrush_defualt_group1
+    400052: mobu2_boss:mobu2_boss
+    400054: neck
+    400056: R_airm_01
+    400058: R_airm_02
+    400060: Root
+    2000000: back
+    2000002: left
+    2100000: lambert1
+    4300000: mobu2_boss:fudo:Group9999
+    4300002: mobu2_boss:mobu2:ZBrush_defualt_group1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: mobu2_boss:fudo:Group9999
+    13700002: mobu2_boss:mobu2:ZBrush_defualt_group1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 68
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
